@@ -36,10 +36,11 @@
 
 .header__logo {
   min-width: 148px;
+  max-height: 105px;
 }
 
 .header__logo-image {
-  max-height: 105px;
+  height: 100%;
 }
 
 .address {
